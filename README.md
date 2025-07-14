@@ -9,9 +9,20 @@ Using a DC motor, several gears, a cord, and a repurposed clip, our mechanism cl
 
 ---
 ## Images:
+### our CAD pieces - a box to hold the motor, a lid for the box, and a clip to attach to the top of the back of someone's clothing
+
 ![CAD View 1](images/CADangle1.png)  
 ![CAD View 2](images/CADangle2.png)  
 ![CAD View 3](images/CADangle3.png)
+---
+### works in progress: using breadboard, wiring & microcontroller:
+![Breadboard](images/breadboard.png)  
+![Motor Control Board](images/motor_control_board.png)  
+
+---
+### gear system
+![Gears](images/gear_system.png)  
+
 ---
 
 ### Bill of Materials (BOM):
