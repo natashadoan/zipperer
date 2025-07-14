@@ -1,10 +1,11 @@
 # The Zipperer!!
+---
 Our device aims to solve an eternal issue: trying to zip up the back of your dress to no avail. Using a geared motor system, we created an automated zipper pull-up system that allows you to zip up the backs of your clothes without any one else's help. Using a DC motor, several gears, a cord, and a repurposed clip, our mechanism clips onto the back of your collar and attaches to the zipper of your clothing item, and winds up the cord to close the back of your clothing. Using 3D printing, we created a custon case labeled "Zipperer" that holds the controller for the device, and another case for the motor to clip to your dressing item.
 ---
 # Images:
-![CAD View 1](docs/images/CADangle1.png)  
-![CAD View 2](docs/images/CADangle2.png)  
-![CAD View 3](docs/images/CADangle3.png)
+![CAD View 1](images/CADangle1.png)  
+![CAD View 2](images/CADangle2.png)  
+![CAD View 3](images/CADangle3.png)
 ---
 
 Bill of Materials (BOM):
